@@ -1,0 +1,116 @@
+event_type,body,phase_name,aspect_type,aspect_target,from_sign,to_sign,station_type,ut_dt,madrid_dt,ut_iso,madrid_iso,longitude_deg,longitude_dms,sign,elongation_deg,notes
+Station,True Node,,,,,,Station Direct,45930.38125,45930.46458333333,2025-09-30T09:09+00:00,2025-09-30T11:09+02:00,348.1656884,"18° 09' 56.48""",Pisces,,Longitude speed crossing zero
+Moon_VoC_Start,Moon,,opposition,Jupiter,,,,45931.23680555556,45931.32013888889,2025-10-01T05:41+00:00,2025-10-01T07:41+02:00,292.49616149,"22° 29' 46.18""",Capricorn,,Last major aspect before ingress: opposition Jupiter
+Ingress,Moon,,,,Capricorn,Aquarius,,45931.82777777778,45931.91111111111,2025-10-01T19:52+00:00,2025-10-01T21:52+02:00,300.00344045,"00° 00' 12.39""",Aquarius,,Moon enters Aquarius
+Moon_VoC_End,Moon,,,,,,,45931.82777777778,45931.91111111111,2025-10-01T19:52+00:00,2025-10-01T21:52+02:00,300.00344045,"00° 00' 12.39""",Aquarius,,Moon ingress into Aquarius
+Moon_VoC_Start,Moon,,trine,Mercury,,,,45933.76041666666,45933.84375,2025-10-03T18:15+00:00,2025-10-03T20:15+02:00,325.51337361,"25° 30' 48.15""",Aquarius,,Last major aspect before ingress: trine Mercury
+Ingress,Moon,,,,Aquarius,Aquarius,,45934.08819444444,45934.17152777778,2025-10-04T02:07+00:00,2025-10-04T04:07+02:00,329.99922686,"29° 59' 57.22""",Aquarius,,Moon enters Aquarius
+Moon_VoC_End,Moon,,,,,,,45934.08819444444,45934.17152777778,2025-10-04T02:07+00:00,2025-10-04T04:07+02:00,329.99922686,"29° 59' 57.22""",Aquarius,,Moon ingress into Aquarius
+Station,True Node,,,,,,Station Rx,45935.3875,45935.47083333333,2025-10-05T09:18+00:00,2025-10-05T11:18+02:00,348.25613851,"18° 15' 22.10""",Pisces,,Longitude speed crossing zero
+Moon_VoC_Start,Moon,,conj,Saturn,,,,45936.02083333334,45936.10416666666,2025-10-06T00:30+00:00,2025-10-06T02:30+02:00,357.38707222,"27° 23' 13.46""",Pisces,,Last major aspect before ingress: conj Saturn
+Ingress,Moon,,,,Pisces,Aries,,45936.2,45936.28333333333,2025-10-06T04:48+00:00,2025-10-06T06:48+02:00,0.00035261,"00° 00' 01.27""",Aries,,Moon enters Aries
+Moon_VoC_End,Moon,,,,,,,45936.2,45936.28333333333,2025-10-06T04:48+00:00,2025-10-06T06:48+02:00,0.00035261,"00° 00' 01.27""",Aries,,Moon ingress into Aries
+Ingress,Mercury,,,,Libra,Scorpio,,45936.69513888889,45936.77847222222,2025-10-06T16:41+00:00,2025-10-06T18:41+02:00,210.00024669,"00° 00' 00.89""",Scorpio,,Mercury enters Scorpio
+Moon_VoC_Start,Moon,,opposition,Sun,,,,45937.15833333333,45937.24166666667,2025-10-07T03:48+00:00,2025-10-07T05:48+02:00,14.14542612,"14° 08' 43.53""",Aries,,Last major aspect before ingress: opposition Sun; Chiron conj later
+Moon_Phase,Moon,Full,,,,,,45937.15833333333,45937.24166666667,2025-10-07T03:48+00:00,2025-10-07T05:48+02:00,14.14542612,"14° 08' 43.53""",Aries,180.003761,Sun 194.141665°
+Ingress,Moon,,,,Aries,Aries,,45938.21666666667,45938.3,2025-10-08T05:12+00:00,2025-10-08T07:12+02:00,29.99528388,"29° 59' 43.02""",Aries,,Moon enters Aries
+Moon_VoC_End,Moon,,,,,,,45938.21666666667,45938.3,2025-10-08T05:12+00:00,2025-10-08T07:12+02:00,29.99528388,"29° 59' 43.02""",Aries,,Moon ingress into Aries
+Moon_VoC_Start,Moon,,sextile,Saturn,,,,45940.02152777778,45940.10486111111,2025-10-10T00:31+00:00,2025-10-10T02:31+02:00,57.09465923,"27° 05' 40.77""",Taurus,,Last major aspect before ingress: sextile Saturn
+Ingress,Moon,,,,Taurus,Gemini,,45940.21666666667,45940.3,2025-10-10T05:12+00:00,2025-10-10T07:12+02:00,60.0001687,"00° 00' 00.61""",Gemini,,Moon enters Gemini
+Moon_VoC_End,Moon,,,,,,,45940.21666666667,45940.3,2025-10-10T05:12+00:00,2025-10-10T07:12+02:00,60.0001687,"00° 00' 00.61""",Gemini,,Moon ingress into Gemini
+Moon_VoC_Start,Moon,,square,Saturn,,,,45942.0625,45942.14583333334,2025-10-12T01:30+00:00,2025-10-12T03:30+02:00,86.95934547,"26° 57' 33.64""",Gemini,,Last major aspect before ingress: square Saturn
+Ingress,Moon,,,,Gemini,Gemini,,45942.27569444444,45942.35902777778,2025-10-12T06:37+00:00,2025-10-12T08:37+02:00,89.9990215,"29° 59' 56.48""",Gemini,,Moon enters Gemini
+Moon_VoC_End,Moon,,,,,,,45942.27569444444,45942.35902777778,2025-10-12T06:37+00:00,2025-10-12T08:37+02:00,89.9990215,"29° 59' 56.48""",Gemini,,Moon ingress into Gemini
+Moon_Phase,Moon,Last Quarter,,,,,,45943.75902777778,45943.84236111111,2025-10-13T18:13+00:00,2025-10-13T20:13+02:00,110.66647327,"20° 39' 59.30""",Cancer,270.002716,Sun 200.663757°
+Station,True Node,,,,,,Station Direct,45943.75902777778,45943.84236111111,2025-10-13T18:13+00:00,2025-10-13T20:13+02:00,347.90465645,"17° 54' 16.76""",Pisces,,Longitude speed crossing zero
+Ingress,Venus,,,,Virgo,Libra,,45943.88819444444,45943.97152777778,2025-10-13T21:19+00:00,2025-10-13T23:19+02:00,180.00019737,"00° 00' 00.71""",Libra,,Venus enters Libra
+Station,Pluto,,,,,,Station Direct,45944.11944444444,45944.20277777778,2025-10-14T02:52+00:00,2025-10-14T04:52+02:00,301.366931,"01° 22' 00.95""",Aquarius,,Longitude speed crossing zero
+Moon_VoC_Start,Moon,,trine,Saturn,,,,45944.21180555555,45944.29513888889,2025-10-14T05:05+00:00,2025-10-14T07:05+02:00,116.80752921,"26° 48' 27.11""",Cancer,,Last major aspect before ingress: trine Saturn
+Ingress,Moon,,,,Cancer,Cancer,,45944.44930555556,45944.53263888889,2025-10-14T10:47+00:00,2025-10-14T12:47+02:00,119.99853484,"29° 59' 54.73""",Cancer,,Moon enters Cancer
+Moon_VoC_End,Moon,,,,,,,45944.44930555556,45944.53263888889,2025-10-14T10:47+00:00,2025-10-14T12:47+02:00,119.99853484,"29° 59' 54.73""",Cancer,,Moon ingress into Cancer
+Moon_VoC_Start,Moon,,opposition,Pluto,,,,45944.55138888889,45944.63472222222,2025-10-14T13:14+00:00,2025-10-14T15:14+02:00,121.36386534,"01° 21' 49.92""",Leo,,Last major aspect before ingress: opposition Pluto; Chiron trine later
+Ingress,Moon,,,,Leo,Virgo,,45946.75416666667,45946.8375,2025-10-16T18:06+00:00,2025-10-16T20:06+02:00,150.00321893,"00° 00' 11.59""",Virgo,,Moon enters Virgo
+Moon_VoC_End,Moon,,,,,,,45946.75416666667,45946.8375,2025-10-16T18:06+00:00,2025-10-16T20:06+02:00,150.00321893,"00° 00' 11.59""",Virgo,,Moon ingress into Virgo
+Station,True Node,,,,,,Station Rx,45948.18958333333,45948.27291666667,2025-10-18T04:33+00:00,2025-10-18T06:33+02:00,347.98545004,"17° 59' 07.62""",Pisces,,Longitude speed crossing zero
+Moon_VoC_Start,Moon,,opposition,Saturn,,,,45948.88263888889,45948.96597222222,2025-10-18T21:11+00:00,2025-10-18T23:11+02:00,176.51199123,"26° 30' 43.17""",Virgo,,Last major aspect before ingress: opposition Saturn
+Ingress,Moon,,,,Virgo,Virgo,,45949.16736111111,45949.25069444445,2025-10-19T04:01+00:00,2025-10-19T06:01+02:00,179.99563113,"29° 59' 44.27""",Virgo,,Moon enters Virgo
+Moon_VoC_End,Moon,,,,,,,45949.16736111111,45949.25069444445,2025-10-19T04:01+00:00,2025-10-19T06:01+02:00,179.99563113,"29° 59' 44.27""",Virgo,,Moon ingress into Virgo
+Moon_VoC_Start,Moon,,conj,Sun,,,,45951.51736111111,45951.60069444445,2025-10-21T12:25+00:00,2025-10-21T14:25+02:00,208.36335367,"28° 21' 48.07""",Libra,,Last major aspect before ingress: conj Sun
+Moon_Phase,Moon,New,,,,,,45951.51736111111,45951.60069444445,2025-10-21T12:25+00:00,2025-10-21T14:25+02:00,208.36335367,"28° 21' 48.07""",Libra,359.998716,Sun 208.364637°
+Ingress,Moon,,,,Libra,Libra,,45951.65416666667,45951.7375,2025-10-21T15:42+00:00,2025-10-21T17:42+02:00,209.99818422,"29° 59' 53.46""",Libra,,Moon enters Libra
+Moon_VoC_End,Moon,,,,,,,45951.65416666667,45951.7375,2025-10-21T15:42+00:00,2025-10-21T17:42+02:00,209.99818422,"29° 59' 53.46""",Libra,,Moon ingress into Libra
+Ingress,Neptune,,,,Aries,Pisces,,45952.41666666666,45952.5,2025-10-22T10:00+00:00,2025-10-22T12:00+02:00,359.99974856,"29° 59' 59.09""",Pisces,,Neptune enters Pisces
+Ingress,Sun,,,,Libra,Scorpio,,45953.16041666667,45953.24375,2025-10-23T03:51+00:00,2025-10-23T05:51+02:00,210.00005318,"00° 00' 00.19""",Scorpio,,Sun enters Scorpio
+Moon_VoC_Start,Moon,,trine,Jupiter,,,,45953.72152777778,45953.80486111111,2025-10-23T17:19+00:00,2025-10-23T19:19+02:00,234.57179713,"24° 34' 18.47""",Scorpio,,Last major aspect before ingress: trine Jupiter
+Ingress,Moon,,,,Scorpio,Sagittarius,,45954.17986111111,45954.26319444444,2025-10-24T04:19+00:00,2025-10-24T06:19+02:00,240.00076379,"00° 00' 02.75""",Sagittarius,,Moon enters Sagittarius
+Moon_VoC_End,Moon,,,,,,,45954.17986111111,45954.26319444444,2025-10-24T04:19+00:00,2025-10-24T06:19+02:00,240.00076379,"00° 00' 02.75""",Sagittarius,,Moon ingress into Sagittarius
+Moon_VoC_Start,Moon,,sextile,Venus,,,,45955.38680555556,45955.47013888889,2025-10-25T09:17+00:00,2025-10-25T11:17+02:00,254.30578653,"14° 18' 20.83""",Sagittarius,,Last major aspect before ingress: sextile Venus
+Ingress,Moon,,,,Sagittarius,Sagittarius,,45956.70347222222,45956.74513888889,2025-10-26T16:53+00:00,2025-10-26T17:53+01:00,269.99796741,"29° 59' 52.68""",Sagittarius,,Moon enters Sagittarius
+Moon_VoC_End,Moon,,,,,,,45956.70347222222,45956.74513888889,2025-10-26T16:53+00:00,2025-10-26T17:53+01:00,269.99796741,"29° 59' 52.68""",Sagittarius,,Moon ingress into Sagittarius
+Moon_VoC_Start,Moon,,sextile,Mercury,,,,45959.13680555556,45959.17847222222,2025-10-29T03:17+00:00,2025-10-29T04:17+01:00,299.66801173,"29° 40' 04.84""",Capricorn,,Last major aspect before ingress: sextile Mercury
+Ingress,Moon,,,,Capricorn,Capricorn,,45959.16319444445,45959.20486111111,2025-10-29T03:55+00:00,2025-10-29T04:55+01:00,299.99733458,"29° 59' 50.40""",Capricorn,,Moon enters Capricorn
+Moon_VoC_End,Moon,,,,,,,45959.16319444445,45959.20486111111,2025-10-29T03:55+00:00,2025-10-29T04:55+01:00,299.99733458,"29° 59' 50.40""",Capricorn,,Moon ingress into Capricorn
+Ingress,Mercury,,,,Scorpio,Scorpio,,45959.45972222222,45959.50138888889,2025-10-29T11:02+00:00,2025-10-29T12:02+01:00,239.99995843,"29° 59' 59.85""",Scorpio,,Mercury enters Scorpio
+Station,True Node,,,,,,Station Direct,45959.56805555556,45959.60972222222,2025-10-29T13:38+00:00,2025-10-29T14:38+01:00,347.00919223,"17° 00' 33.09""",Pisces,,Longitude speed crossing zero
+Moon_Phase,Moon,First Quarter,,,,,,45959.68125,45959.72291666667,2025-10-29T16:21+00:00,2025-10-29T17:21+01:00,306.50577642,"06° 30' 20.80""",Aquarius,90.00157400000001,Sun 216.504203°
+Moon_VoC_Start,Moon,,square,Mars,,,,45961.26041666666,45961.30208333334,2025-10-31T06:15+00:00,2025-10-31T07:15+01:00,326.94001621,"26° 56' 24.06""",Aquarius,,Last major aspect before ingress: square Mars
+Ingress,Moon,,,,Aquarius,Pisces,,45961.49027777778,45961.53194444445,2025-10-31T11:46+00:00,2025-10-31T12:46+01:00,330.00003253,"00° 00' 00.12""",Pisces,,Moon enters Pisces
+Moon_VoC_End,Moon,,,,,,,45961.49027777778,45961.53194444445,2025-10-31T11:46+00:00,2025-10-31T12:46+01:00,330.00003253,"00° 00' 00.12""",Pisces,,Moon ingress into Pisces
+Station,True Node,,,,,,Station Rx,45962.73819444444,45962.77986111111,2025-11-01T17:43+00:00,2025-11-01T18:43+01:00,347.05030605,"17° 03' 01.10""",Pisces,,Longitude speed crossing zero
+Moon_VoC_Start,Moon,,conj,Neptune,,,,45963.63541666666,45963.67708333334,2025-11-02T15:15+00:00,2025-11-02T16:15+01:00,359.75571405,"29° 45' 20.57""",Pisces,,Last major aspect before ingress: conj Neptune
+Ingress,Moon,,,,Pisces,Pisces,,45963.65208333333,45963.69375,2025-11-02T15:39+00:00,2025-11-02T16:39+01:00,359.99553086,"29° 59' 43.91""",Pisces,,Moon enters Pisces
+Moon_VoC_End,Moon,,,,,,,45963.65208333333,45963.69375,2025-11-02T15:39+00:00,2025-11-02T16:39+01:00,359.99553086,"29° 59' 43.91""",Pisces,,Moon ingress into Pisces
+Moon_VoC_Start,Moon,,opposition,Venus,,,,45965.47291666667,45965.51458333333,2025-11-04T11:21+00:00,2025-11-04T12:21+01:00,26.90241762,"26° 54' 08.70""",Aries,,Last major aspect before ingress: opposition Venus
+Ingress,Mars,,,,Scorpio,Scorpio,,45965.54236111111,45965.58402777778,2025-11-04T13:01+00:00,2025-11-04T14:01+01:00,239.99989018,"29° 59' 59.60""",Scorpio,,Mars enters Scorpio
+Ingress,Moon,,,,Aries,Taurus,,45965.67777777778,45965.71944444445,2025-11-04T16:16+00:00,2025-11-04T17:16+01:00,30.00278977,"00° 00' 10.04""",Taurus,,Moon enters Taurus
+Moon_VoC_End,Moon,,,,,,,45965.67777777778,45965.71944444445,2025-11-04T16:16+00:00,2025-11-04T17:16+01:00,30.00278977,"00° 00' 10.04""",Taurus,,Moon ingress into Taurus
+Moon_Phase,Moon,Full,,,,,,45966.55486111111,45966.59652777778,2025-11-05T13:19+00:00,2025-11-05T14:19+01:00,43.3777782,"13° 22' 40.00""",Taurus,179.996537,Sun 223.381241°
+Moon_VoC_Start,Moon,,sextile,Neptune,,,,45967.61875,45967.66041666667,2025-11-06T14:51+00:00,2025-11-06T15:51+01:00,59.68627431,"29° 41' 10.59""",Taurus,,Last major aspect before ingress: sextile Neptune
+Ingress,Moon,,,,Taurus,Gemini,,45967.63958333333,45967.68125,2025-11-06T15:21+00:00,2025-11-06T16:21+01:00,60.00513803,"00° 00' 18.50""",Gemini,,Moon enters Gemini
+Moon_VoC_End,Moon,,,,,,,45967.63958333333,45967.68125,2025-11-06T15:21+00:00,2025-11-06T16:21+01:00,60.00513803,"00° 00' 18.50""",Gemini,,Moon ingress into Gemini
+Ingress,Venus,,,,Libra,Scorpio,,45967.94444444445,45967.98611111111,2025-11-06T22:40+00:00,2025-11-06T23:40+01:00,210.00042698,"00° 00' 01.54""",Scorpio,,Venus enters Scorpio
+Ingress,Uranus,,,,Gemini,Taurus,,45969.125,45969.16666666666,2025-11-08T03:00+00:00,2025-11-08T04:00+01:00,59.99888568,"29° 59' 55.99""",Taurus,,Uranus enters Taurus
+Moon_VoC_Start,Moon,,square,Neptune,,,,45969.60555555556,45969.64722222222,2025-11-08T14:32+00:00,2025-11-08T15:32+01:00,89.65188846,"29° 39' 06.80""",Gemini,,Last major aspect before ingress: square Neptune
+Ingress,Moon,,,,Gemini,Cancer,,45969.62916666667,45969.67083333333,2025-11-08T15:06+00:00,2025-11-08T16:06+01:00,90.0002277,"00° 00' 00.82""",Cancer,,Moon enters Cancer
+Moon_VoC_End,Moon,,,,,,,45969.62916666667,45969.67083333333,2025-11-08T15:06+00:00,2025-11-08T16:06+01:00,90.0002277,"00° 00' 00.82""",Cancer,,Moon ingress into Cancer
+Station,Mercury,,,,,,Station Rx,45970.79305555556,45970.83472222222,2025-11-09T19:02+00:00,2025-11-09T20:02+01:00,246.86189091,"06° 51' 42.81""",Sagittarius,,Longitude speed crossing zero
+Moon_VoC_Start,Moon,,sextile,Uranus,,,,45971.72361111111,45971.76527777778,2025-11-10T17:22+00:00,2025-11-10T18:22+01:00,119.88981691,"29° 53' 23.34""",Cancer,,Last major aspect before ingress: sextile Uranus
+Ingress,Moon,,,,Cancer,Leo,,45971.73194444444,45971.77361111111,2025-11-10T17:34+00:00,2025-11-10T18:34+01:00,120.00455155,"00° 00' 16.39""",Leo,,Moon enters Leo
+Moon_VoC_End,Moon,,,,,,,45971.73194444444,45971.77361111111,2025-11-10T17:34+00:00,2025-11-10T18:34+01:00,120.00455155,"00° 00' 16.39""",Leo,,Moon ingress into Leo
+Station,Jupiter,,,,,,Station Rx,45972.69583333333,45972.7375,2025-11-11T16:42+00:00,2025-11-11T17:42+01:00,115.15260195,"25° 09' 09.37""",Cancer,,Longitude speed crossing zero
+Station,True Node,,,,,,Station Direct,45973.12916666667,45973.17083333333,2025-11-12T03:06+00:00,2025-11-12T04:06+01:00,346.13808048,"16° 08' 17.09""",Pisces,,Longitude speed crossing zero
+Moon_Phase,Moon,Last Quarter,,,,,,45973.22777777778,45973.26944444444,2025-11-12T05:28+00:00,2025-11-12T06:28+01:00,140.0792265,"20° 04' 45.22""",Leo,269.998753,Sun 230.080474°
+Moon_VoC_Start,Moon,,square,Uranus,,,,45973.97916666666,45974.02083333334,2025-11-12T23:30+00:00,2025-11-13T00:30+01:00,149.80586887,"29° 48' 21.13""",Leo,,Last major aspect before ingress: square Uranus
+Ingress,Moon,,,,Leo,Virgo,,45973.99444444444,45974.03611111111,2025-11-12T23:52+00:00,2025-11-13T00:52+01:00,150.00144347,"00° 00' 05.20""",Virgo,,Moon enters Virgo
+Moon_VoC_End,Moon,,,,,,,45973.99444444444,45974.03611111111,2025-11-12T23:52+00:00,2025-11-13T00:52+01:00,150.00144347,"00° 00' 05.20""",Virgo,,Moon ingress into Virgo
+Station,True Node,,,,,,Station Rx,45975.27569444444,45975.31736111111,2025-11-14T06:37+00:00,2025-11-14T07:37+01:00,346.15076115,"16° 09' 02.74""",Pisces,,Longitude speed crossing zero
+Moon_VoC_Start,Moon,,trine,Uranus,,,,45976.38055555556,45976.42222222222,2025-11-15T09:08+00:00,2025-11-15T10:08+01:00,179.69827294,"29° 41' 53.78""",Virgo,,Last major aspect before ingress: trine Uranus
+Ingress,Moon,,,,Virgo,Libra,,45976.40555555555,45976.44722222222,2025-11-15T09:44+00:00,2025-11-15T10:44+01:00,180.00230288,"00° 00' 08.29""",Libra,,Moon enters Libra
+Moon_VoC_End,Moon,,,,,,,45976.40555555555,45976.44722222222,2025-11-15T09:44+00:00,2025-11-15T10:44+01:00,180.00230288,"00° 00' 08.29""",Libra,,Moon ingress into Libra
+Moon_VoC_Start,Moon,,square,Jupiter,,,,45978.49375,45978.53541666667,2025-11-17T11:51+00:00,2025-11-17T12:51+01:00,205.09564457,"25° 05' 44.32""",Libra,,Last major aspect before ingress: square Jupiter
+Ingress,Moon,,,,Libra,Libra,,45978.90555555555,45978.94722222222,2025-11-17T21:44+00:00,2025-11-17T22:44+01:00,209.9968988,"29° 59' 48.84""",Libra,,Moon enters Libra
+Moon_VoC_End,Moon,,,,,,,45978.90555555555,45978.94722222222,2025-11-17T21:44+00:00,2025-11-17T22:44+01:00,209.9968988,"29° 59' 48.84""",Libra,,Moon ingress into Libra
+Ingress,Mercury,,,,Sagittarius,Scorpio,,45980.16666666666,45980.20833333334,2025-11-19T04:00+00:00,2025-11-19T05:00+01:00,239.96323862,"29° 57' 47.66""",Scorpio,,Mercury enters Scorpio
+Moon_Phase,Moon,New,,,,,,45981.28263888889,45981.32430555556,2025-11-20T06:47+00:00,2025-11-20T07:47+01:00,238.1962592,"28° 11' 46.53""",Scorpio,359.998007,Sun 238.198253°
+Moon_VoC_Start,Moon,,opposition,Uranus,,,,45981.39166666667,45981.43333333333,2025-11-20T09:24+00:00,2025-11-20T10:24+01:00,239.48952085,"29° 29' 22.28""",Scorpio,,Last major aspect before ingress: opposition Uranus
+Ingress,Moon,,,,Scorpio,Sagittarius,,45981.43472222222,45981.47638888889,2025-11-20T10:26+00:00,2025-11-20T11:26+01:00,240.00029674,"00° 00' 01.07""",Sagittarius,,Moon enters Sagittarius
+Moon_VoC_End,Moon,,,,,,,45981.43472222222,45981.47638888889,2025-11-20T10:26+00:00,2025-11-20T11:26+01:00,240.00029674,"00° 00' 01.07""",Sagittarius,,Moon ingress into Sagittarius
+Moon_VoC_Start,Moon,,conj,Mars,,,,45982.46736111111,45982.50902777778,2025-11-21T11:13+00:00,2025-11-21T12:13+01:00,252.26563126,"12° 15' 56.27""",Sagittarius,,Last major aspect before ingress: conj Mars
+Ingress,Sun,,,,Scorpio,Sagittarius,,45983.06666666667,45983.10833333333,2025-11-22T01:36+00:00,2025-11-22T02:36+01:00,240.00029328,"00° 00' 01.06""",Sagittarius,,Sun enters Sagittarius
+Ingress,Moon,,,,Sagittarius,Capricorn,,45983.95347222222,45983.99513888889,2025-11-22T22:53+00:00,2025-11-22T23:53+01:00,270.00299386,"00° 00' 10.78""",Capricorn,,Moon enters Capricorn
+Moon_VoC_End,Moon,,,,,,,45983.95347222222,45983.99513888889,2025-11-22T22:53+00:00,2025-11-22T23:53+01:00,270.00299386,"00° 00' 10.78""",Capricorn,,Moon ingress into Capricorn
+Moon_VoC_Start,Moon,,opposition,Jupiter,,,,45986.00833333333,45986.05,2025-11-25T00:12+00:00,2025-11-25T01:12+01:00,294.85601274,"24° 51' 21.65""",Capricorn,,Last major aspect before ingress: opposition Jupiter
+Ingress,Moon,,,,Capricorn,Aquarius,,45986.42777777778,45986.46944444445,2025-11-25T10:16+00:00,2025-11-25T11:16+01:00,300.0033852,"00° 00' 12.19""",Aquarius,,Moon enters Aquarius
+Moon_VoC_End,Moon,,,,,,,45986.42777777778,45986.46944444445,2025-11-25T10:16+00:00,2025-11-25T11:16+01:00,300.0033852,"00° 00' 12.19""",Aquarius,,Moon ingress into Aquarius
+Moon_VoC_Start,Moon,,square,Venus,,,,45988.48055555556,45988.52222222222,2025-11-27T11:32+00:00,2025-11-27T12:32+01:00,325.77407467,"25° 46' 26.67""",Aquarius,,Last major aspect before ingress: square Venus
+Ingress,Moon,,,,Aquarius,Pisces,,45988.80833333333,45988.85,2025-11-27T19:24+00:00,2025-11-27T20:24+01:00,330.00233091,"00° 00' 08.39""",Pisces,,Moon enters Pisces
+Moon_VoC_End,Moon,,,,,,,45988.80833333333,45988.85,2025-11-27T19:24+00:00,2025-11-27T20:24+01:00,330.00233091,"00° 00' 08.39""",Pisces,,Moon ingress into Pisces
+Station,Saturn,,,,,,Station Direct,45989.16111111111,45989.20277777778,2025-11-28T03:52+00:00,2025-11-28T04:52+01:00,355.15758301,"25° 09' 27.30""",Pisces,,Longitude speed crossing zero
+Moon_Phase,Moon,First Quarter,,,,,,45989.29097222222,45989.33263888889,2025-11-28T06:59+00:00,2025-11-28T07:59+01:00,336.29792373,"06° 17' 52.53""",Pisces,90.00178099999999,Sun 246.296142°
+Station,True Node,,,,,,Station Direct,45989.30972222222,45989.35138888889,2025-11-28T07:26+00:00,2025-11-28T08:26+01:00,344.34068103,"14° 20' 26.45""",Pisces,,Longitude speed crossing zero
+Station,True Node,,,,,,Station Rx,45989.89652777778,45989.93819444445,2025-11-28T21:31+00:00,2025-11-28T22:31+01:00,344.34098118,"14° 20' 27.53""",Pisces,,Longitude speed crossing zero
+Station,Mercury,,,,,,Station Direct,45990.73472222222,45990.77638888889,2025-11-29T17:38+00:00,2025-11-29T18:38+01:00,230.70686184,"20° 42' 24.70""",Scorpio,,Longitude speed crossing zero
+Moon_VoC_Start,Moon,,conj,Neptune,,,,45991.00347222222,45991.04513888889,2025-11-30T00:05+00:00,2025-11-30T01:05+01:00,359.40229744,"29° 24' 08.27""",Pisces,,Last major aspect before ingress: conj Neptune
+Ingress,Moon,,,,Pisces,Pisces,,45991.04652777778,45991.08819444444,2025-11-30T01:07+00:00,2025-11-30T02:07+01:00,359.99998433,"29° 59' 59.94""",Pisces,,Moon enters Pisces
+Moon_VoC_End,Moon,,,,,,,45991.04652777778,45991.08819444444,2025-11-30T01:07+00:00,2025-11-30T02:07+01:00,359.99998433,"29° 59' 59.94""",Pisces,,Moon ingress into Pisces
+Ingress,Venus,,,,Scorpio,Sagittarius,,45991.84305555555,45991.88472222222,2025-11-30T20:14+00:00,2025-11-30T21:14+01:00,240.00033805,"00° 00' 01.22""",Sagittarius,,Venus enters Sagittarius

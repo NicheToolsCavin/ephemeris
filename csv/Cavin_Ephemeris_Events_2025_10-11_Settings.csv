@@ -1,0 +1,6 @@
+key,value
+timezone_default,Europe/Madrid
+voc_aspects,"conj,sextile,square,trine,opposition"
+voc_planets,"Sun,Mercury,Venus,Mars,Jupiter,Saturn,Uranus,Neptune,Pluto"
+voc_include_chiron,FALSE
+precision_minutes,1
