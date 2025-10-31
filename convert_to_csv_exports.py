@@ -142,7 +142,7 @@ def load_sheet_rows(archive: zipfile.ZipFile, sheet_path: str, shared: Sequence[
 
 def write_csv(rows: Sequence[Sequence[str]], output_path: Path) -> None:
     with output_path.open("w", newline="", encoding="utf-8") as handle:
-        writer = csv.writer(handle, lineterminator="\n")
+        writer = csv.writer(handle, lineterminator="\r\n")
         for row in rows:
             writer.writerow(list(row))
 
