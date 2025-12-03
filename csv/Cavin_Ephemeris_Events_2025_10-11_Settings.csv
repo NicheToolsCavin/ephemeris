@@ -4,3 +4,6 @@ voc_aspects,"conj,sextile,square,trine,opposition"
 voc_planets,"Sun,Mercury,Venus,Mars,Jupiter,Saturn,Uranus,Neptune,Pluto"
 voc_include_chiron,FALSE
 precision_minutes,1
+sheet_version,2025-12-03 v1
+phase_elongation_tolerance_deg,0.01
+dst_timezone,Europe/Madrid

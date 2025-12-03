@@ -1,63 +1,46 @@
 date_madrid,moon_sign_00UT,moon_phase_today_name,moon_phase_today_time_madrid,voc_segments_today,ingresses_today,stations_today,data_flags
-45931,Capricorn,,,07:41–21:52,21:52 Moon Capricorn→Aquarius
-45932,Aquarius
-45933,Aquarius,,,20:15–00:00
-45934,Aquarius,,,00:00–04:07,04:07 Moon Aquarius→Aquarius
-45935,Pisces,,,,,11:18 True Node Station Rx
-45936,Pisces,,,02:30–06:48,06:48 Moon Pisces→Aries; 18:41 Mercury Libra→Scorpio
-45937,Aries,Full,45937.24166666667,05:48–00:00
-45938,Aries,,,00:00–07:12,07:12 Moon Aries→Aries
-45939,Taurus
-45940,Taurus,,,02:31–07:12,07:12 Moon Taurus→Gemini
-45941,Gemini
-45942,Gemini,,,03:30–08:37,08:37 Moon Gemini→Gemini
-45943,Cancer,Last Quarter,45943.84236111111,,23:19 Venus Virgo→Libra,20:13 True Node Station Direct
-45944,Cancer,,,07:05–12:47; 15:14–00:00,12:47 Moon Cancer→Cancer,04:52 Pluto Station Direct
-45945,Leo,,,00:00–00:00
-45946,Leo,,,00:00–20:06,20:06 Moon Leo→Virgo
-45947,Virgo
-45948,Virgo,,,23:11–00:00,,06:33 True Node Station Rx
-45949,Virgo,,,00:00–06:01,06:01 Moon Virgo→Virgo
-45950,Libra
-45951,Libra,New,45951.60069444445,14:25–17:42,17:42 Moon Libra→Libra
-45952,Scorpio,,,,12:00 Neptune Aries→Pisces
-45953,Scorpio,,,19:19–00:00,05:51 Sun Libra→Scorpio
-45954,Scorpio,,,00:00–06:19,06:19 Moon Scorpio→Sagittarius
-45955,Sagittarius,,,11:17–00:00
-45956,Sagittarius,,,00:00–17:53,17:53 Moon Sagittarius→Sagittarius
-45957,Capricorn
-45958,Capricorn
-45959,Capricorn,First Quarter,45959.72291666667,04:17–04:55,04:55 Moon Capricorn→Capricorn; 12:02 Mercury Scorpio→Scorpio,14:38 True Node Station Direct
-45960,Aquarius
-45961,Aquarius,,,07:15–12:46,12:46 Moon Aquarius→Pisces
-45962,Pisces,,,,,18:43 True Node Station Rx
-45963,Pisces,,,16:15–16:39,16:39 Moon Pisces→Pisces
-45964,Aries
-45965,Aries,,,12:21–17:16,14:01 Mars Scorpio→Scorpio; 17:16 Moon Aries→Taurus
-45966,Taurus,Full,45966.59652777778
-45967,Taurus,,,15:51–16:21,16:21 Moon Taurus→Gemini; 23:40 Venus Libra→Scorpio
-45968,Gemini
-45969,Gemini,,,15:32–16:06,04:00 Uranus Gemini→Taurus; 16:06 Moon Gemini→Cancer
-45970,Cancer,,,,,20:02 Mercury Station Rx
-45971,Cancer,,,18:22–18:34,18:34 Moon Cancer→Leo
-45972,Leo,,,,,17:42 Jupiter Station Rx
-45973,Leo,Last Quarter,45973.26944444444,,,04:06 True Node Station Direct
-45974,Leo,,,00:30–00:52,00:52 Moon Leo→Virgo
-45975,Virgo,,,,,07:37 True Node Station Rx
-45976,Virgo,,,10:08–10:44,10:44 Moon Virgo→Libra
-45977,Libra
-45978,Libra,,,12:51–22:44,22:44 Moon Libra→Libra
-45979,Scorpio
-45980,Scorpio,,,,05:00 Mercury Sagittarius→Scorpio
-45981,Scorpio,New,45981.32430555556,10:24–11:26,11:26 Moon Scorpio→Sagittarius
-45982,Sagittarius,,,12:13–00:00
-45983,Sagittarius,,,00:00–23:53,02:36 Sun Scorpio→Sagittarius; 23:53 Moon Sagittarius→Capricorn
-45984,Capricorn
-45985,Capricorn
-45986,Capricorn,,,01:12–11:16,11:16 Moon Capricorn→Aquarius
-45987,Aquarius
-45988,Aquarius,,,12:32–20:24,20:24 Moon Aquarius→Pisces
-45989,Pisces,First Quarter,45989.33263888889,,,04:52 Saturn Station Direct; 08:26 True Node Station Direct; 22:31 True Node Station Rx
-45990,Pisces,,,,,18:38 Mercury Station Direct
-45991,Pisces,,,01:05–02:07,02:07 Moon Pisces→Pisces; 21:14 Venus Scorpio→Sagittarius
-45992,Aries
+2025-12-03,Taurus,,,,,,
+2025-12-04,Taurus,,,02:50–03:48,03:48 Moon Taurus→Taurus,,
+2025-12-05,Gemini,Full,2025-12-05 00:14:00,,,,phase crosses midnight; see Events
+2025-12-06,Gemini,,,01:55–02:54,02:54 Moon Gemini→Gemini,,
+2025-12-07,Cancer,,,,,,
+2025-12-08,Cancer,,,02:45–03:48,03:48 Moon Cancer→Cancer,,
+2025-12-09,Leo,,,,,,
+2025-12-10,Leo,,,05:56–08:20,08:20 Moon Leo→Leo,13:23 Neptune Station Direct,
+2025-12-11,Virgo,Last Quarter,2025-12-11 21:52:00,,23:40 Mercury Scorpio→Sagittarius,08:34 True Node Station Direct,
+2025-12-12,Virgo,,,15:51–17:04,17:04 Moon Virgo→Virgo,02:31 True Node Station Rx,
+2025-12-13,Libra,,,,,,
+2025-12-14,Libra,,,15:34–00:00,,,
+2025-12-15,Libra,,,00:00–04:51,04:51 Moon Libra→Libra; 08:34 Mars Sagittarius→Capricorn,,
+2025-12-16,Scorpio,,,,,,
+2025-12-17,Scorpio,,,14:25–17:39,17:39 Moon Scorpio→Sagittarius,,
+2025-12-18,Sagittarius,,,,,,
+2025-12-19,Sagittarius,,,,,,
+2025-12-20,Sagittarius,New,2025-12-20 02:43:00,02:43–05:53,05:53 Moon Sagittarius→Capricorn,,
+2025-12-21,Capricorn,,,,16:03 Sun Sagittarius→Sagittarius,,
+2025-12-22,Capricorn,,,02:27–16:52,16:52 Moon Capricorn→Aquarius,,
+2025-12-23,Aquarius,,,,,,
+2025-12-24,Aquarius,,,00:54–00:00,17:26 Venus Sagittarius→Capricorn,,
+2025-12-25,Aquarius,,,00:00–02:09,02:09 Moon Aquarius→Pisces,23:03 True Node Station Direct,
+2025-12-26,Pisces,,,,,,
+2025-12-27,Pisces,First Quarter,2025-12-27 20:10:00,08:03–09:02,09:02 Moon Pisces→Aries,23:48 True Node Station Rx,
+2025-12-28,Aries,,,,,,
+2025-12-29,Aries,,,03:13–12:57,12:57 Moon Aries→Aries,,
+2025-12-30,Taurus,,,,,,
+2025-12-31,Taurus,,,13:25–14:13,14:13 Moon Taurus→Taurus,,
+2026-01-01,Gemini,,,,22:11 Mercury Sagittarius→Capricorn,,
+2026-01-02,Gemini,,,13:24–14:09,14:09 Moon Gemini→Gemini,15:38 Chiron Station Direct,
+2026-01-03,Cancer,Full,2026-01-03 11:03:00,,,,
+2026-01-04,Cancer,,,13:59–14:43,14:43 Moon Cancer→Cancer,,
+2026-01-05,Leo,,,,,,
+2026-01-06,Leo,,,14:05–17:57,17:57 Moon Leo→Virgo,,
+2026-01-07,Virgo,,,,,12:22 True Node Station Direct,
+2026-01-08,Virgo,,,,,,
+2026-01-09,Virgo,,,00:23–01:06,01:06 Moon Virgo→Libra,,
+2026-01-10,Libra,Last Quarter,2026-01-10 16:48:00,16:08–00:00,,17:25 True Node Station Rx,
+2026-01-11,Libra,,,00:00–11:55,11:55 Moon Libra→Libra,,
+2026-01-12,Scorpio,,,,,,
+2026-01-13,Scorpio,,,19:49–00:00,,,
+2026-01-14,Scorpio,,,00:00–00:34; 00:34–00:00,00:34 Moon Scorpio→Sagittarius,,
+2026-01-15,Sagittarius,,,00:00–00:00,,,
+2026-01-16,Sagittarius,,,00:00–12:47,12:47 Moon Sagittarius→Sagittarius,,
